@@ -3,4 +3,6 @@
 * avocado
 * lime
 * salt
+* chillies
+* garlic
 ## Instructions
