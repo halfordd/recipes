@@ -16,6 +16,9 @@ A list:
 
 # Joe Coder's recipes
 
+## New section
+
+We are making some changes.
 
 ## Description
 I often found myself searching over and over again for certain recipes. Sometimes I would find them. Sometimes I would not. 
